@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">P05NDPSongs</string>
+    <string name="song_title">Song Title</string>
+    <string name="song_singer">Singers</string>
+    <string name="song_year">Year</string>
+    <string name="stars">Stars</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="show_list">Show List</string>
+    <string name="insert">Insert</string>
+    <string name="title_activity_main">P05-NDPSongs ~ Insert Song</string>
+    <string name="title_activity_second">P05-NDPSongs ~ Show Song</string>
+</resources>
